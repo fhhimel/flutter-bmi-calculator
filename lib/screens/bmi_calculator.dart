@@ -48,7 +48,7 @@ class _BMICalculatorState extends State<BMICalculator> {
                 controller: tf2,
                 keyboardType: TextInputType.number,
                 decoration: InputDecoration(
-                  label: Text("Enter Your Height (cm)", style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),),
+                  label: Text("Enter Your Weight (kg)", style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),),
                   enabledBorder: OutlineInputBorder(
                       borderSide: BorderSide(color: Colors.black)
                   ),
